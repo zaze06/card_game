@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="card_game.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/card_game_main_jar</output-path>
+    <root id="archive" name="card_game.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="card_game.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baulsupp.kolja/jcurses/0.9.5.3/fc075b6a2e680f0c6dc4b6fd9b400b50d95fdea4/jcurses-0.9.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.4.3/b00571426d641ebc3eff8170cd4182162b445fc5/slf4j-api-1.4.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
